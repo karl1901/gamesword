@@ -2,6 +2,10 @@
 
 ---
 
+- [**返回**](https://code.aliyun.com/kangxianghui/gamesword/tree/master)
+
+---
+
 > [基础设置](#基础设置)  
 > [画面设置](#画面设置)  
 > [操作设置](#操作设置)  
@@ -53,4 +57,4 @@
 
 ---
 
-- [返回](https://code.aliyun.com/kangxianghui/gamesword/tree/master)
+- [**返回**](https://code.aliyun.com/kangxianghui/gamesword/tree/master)
