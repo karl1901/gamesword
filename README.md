@@ -21,4 +21,4 @@
 ---
 
 [**黑暗骑士的网站**](https://huhuiyu.top/)  
-[**辉哥(我)的网站**](https://kangxianghui.top/)
+[**我的网站**](https://kangxianghui.top/)
