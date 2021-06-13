@@ -2,7 +2,7 @@
 
 ---
 
-- [**返回**](https://code.aliyun.com/kangxianghui/gamesword/tree/master)
+- [**返回**](https://code.aliyun.com/kangxianghui/gamesword/blob/master/README.md)
 
 ---
 
